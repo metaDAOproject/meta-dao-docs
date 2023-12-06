@@ -4,7 +4,7 @@ description: An organization governed by markets, not politics
 
 # Overview
 
-Today's DAOs are not decentralized. At the root of the issue is the token-voting model: holders have weak incentives to participate in governance, so they end up either not engaging or blindly following the team.
+Today's organizations are failing us. We see this in society, where [democracies fail to represent the preferences of their citizens](https://archive.org/details/gilens\_and\_page\_2014\_-testing\_theories\_of\_american\_politics.doc/mode/2up). We also see this in crypto, where our 'DAOs' are far from decentralized or optimal.
 
 Enter futarchy, a novel governance mechanism where markets make decisions. In a market, traders have a profit incentive to participate in markets and to correct mispricings. Because of this, markets are empirically better than experts at aggregating information:
 
