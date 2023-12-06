@@ -5,6 +5,7 @@
 
 ## Mechanics
 
-* [Overview](mechanics/overview.md)
 * [Futarchy](mechanics/futarchy.md)
 * [Implementation](mechanics/implementation.md)
+* [Example flows](mechanics/example-flows.md)
+* [Scalability](mechanics/scalability.md)
