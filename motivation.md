@@ -1,3 +1,7 @@
+---
+description: What problem are we solving?
+---
+
 # Motivation
 
 ### Institutions are the driving force of our existence <a href="#institutions-are-the-driving-force-of-our-existence" id="institutions-are-the-driving-force-of-our-existence"></a>
