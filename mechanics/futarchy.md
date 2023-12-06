@@ -45,12 +45,9 @@ Another advantage is that markets give more power over time to those who are bet
 In practice, markets have repeatedly demonstrated them as superior instruments of aggregating information. Examples include:
 
 * Prediction markets [outperform](https://repository.arizona.edu/bitstream/handle/10150/666656/azu\_etd\_hr\_2021\_0133\_sip1\_m.pdf?sequence=1) [professional pollsters](https://www.jstor.org/stable/40467652) in predicting elections. [4](http://themetadao.org/docs/mechanics/futarchy.html#fn:4),[5](http://themetadao.org/docs/mechanics/futarchy.html#fn:5)
-* Commodities futures markets outperform government forecasts in predicting weather.[6](http://themetadao.org/docs/mechanics/futarchy.html#fn:6)
-
-
-
-* Companies like Google and HP have used prediction markets to succesfully forecast things like launch dates, printer sales, and the dates of new office openings.[7](http://themetadao.org/docs/mechanics/futarchy.html#fn:7),[8](http://themetadao.org/docs/mechanics/futarchy.html#fn:8)
-* Famously, while it took the US government more than 5 months to identify the Morton-Thiakol O-Rings as the root cause of the Challenger crash, the markets had priced it so in Morton-Thiakol’s share price within 14 minutes.[9](http://themetadao.org/docs/mechanics/futarchy.html#fn:9)&#x20;
+* Commodities futures markets [outperform government forecasts](https://www.jstor.org/stable/40467652) in predicting weather.
+* Companies like [Google](https://googleblog.blogspot.com/2005/09/putting-crowd-wisdom-to-work.html) and [HP](https://authors.library.caltech.edu/44358/1/wp1131.pdf) have used prediction markets to succesfully forecast things like launch dates, printer sales, and the dates of new office openings.[7](http://themetadao.org/docs/mechanics/futarchy.html#fn:7),[8](http://themetadao.org/docs/mechanics/futarchy.html#fn:8)
+* Famously, while it took the US government more than 5 months to identify the Morton-Thiakol O-Rings as the root cause of the Challenger crash, [the markets had priced it so in Morton-Thiakol’s share price within 14 minutes](http://maloney.people.clemson.edu/855/9.pdf).
 
 ### &#x20;Drawbacks <a href="#drawbacks" id="drawbacks"></a>
 
@@ -61,17 +58,3 @@ However, there are two counter-points to consider.
 For one, what we’re searching for is not the Platonic ideal of a governance system, but merely one that is better than the others. Empirically and theoretically, markets appear to be better than other prediction mechanisms.
 
 Secondly, people tend to underestimate the rationality of markets because of the [frequency illusion](https://en.wikipedia.org/wiki/Frequency\_illusion). Normal market conditions are boring and receive little media coverage. Periods of irrationality, such as the [GameStop short squeeze](https://en.wikipedia.org/wiki/GameStop\_short\_squeeze) receive lots of publicity. So even though markets are rational most of the time, people only see the irrational moments.
-
-***
-
-1. https://blog.ethereum.org/2014/08/21/introduction-futarchy [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:1)
-2. https://www.ralphmerkle.com/papers/DAOdemocracyDraft.pdf [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:2)
-3. To understand how election prediction markets work, see [the Wikipedia page](https://en.wikipedia.org/wiki/Election\_stock\_market). [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:3)
-4. https://repository.arizona.edu/bitstream/handle/10150/666656/azu\_etd\_hr\_2021\_0133\_sip1\_m.pdf?sequence=1 [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:4)
-5. https://www.jstor.org/stable/40467652[^1] [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:5)
-6. https://www.jstor.org/stable/pdf/549.pdf?addFooter=false [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:6)
-7. https://googleblog.blogspot.com/2005/09/putting-crowd-wisdom-to-work.html [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:7)
-8. https://authors.library.caltech.edu/44358/1/wp1131.pdf [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:8)
-9. http://maloney.people.clemson.edu/855/9.pdf [↩](http://themetadao.org/docs/mechanics/futarchy.html#fnref:9)
-
-[^1]: 
