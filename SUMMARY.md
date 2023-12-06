@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Meta-DAO](README.md)
+* [Overview](README.md)
 * [Motivation](motivation.md)
 
 ## Mechanics
