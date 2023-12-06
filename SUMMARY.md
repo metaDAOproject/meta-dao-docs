@@ -7,3 +7,4 @@
 
 * [Overview](mechanics/overview.md)
 * [Futarchy](mechanics/futarchy.md)
+* [Implementation](mechanics/implementation.md)
