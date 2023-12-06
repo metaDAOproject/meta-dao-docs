@@ -6,3 +6,4 @@
 ## Mechanics
 
 * [Overview](mechanics/overview.md)
+* [Futarchy](mechanics/futarchy.md)
