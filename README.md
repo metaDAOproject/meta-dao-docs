@@ -13,4 +13,4 @@ Enter futarchy, a novel governance mechanism where markets make decisions. In a 
 * Companies like [Google](https://googleblog.blogspot.com/2005/09/putting-crowd-wisdom-to-work.html) and [HP](https://authors.library.caltech.edu/44358/1/wp1131.pdf) have used prediction markets to succesfully forecast things like launch dates, printer sales, and the dates of new office openings.
 * Famously, while it took the US government more than 5 months to identify the Morton-Thiakol O-Rings as the root cause of the Challenger crash, [the markets had priced it so in Morton-Thiakol’s share price within 14 minutes](http://maloney.people.clemson.edu/855/9.pdf).
 
-The Meta-DAO is the first futarchy. You can participate either by creating and executing on proposals or by trading in the per-proposal markets.
+The Meta-DAO is the first futarchy. Join us to push the frontier of human civilization!
