@@ -14,7 +14,7 @@ The Meta-DAO is composed of [3 open-source programs](https://github.com/metaDAOp
 
 The Meta-DAO is built on top of [OpenBook V2](https://www.openbook-solana.com/)’s central limit order book. _META_ is the native token of the Meta-DAO.
 
-![](http://themetadao.org/img/program-overview.png)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;Conditional vault program <a href="#conditional-vault-program" id="conditional-vault-program"></a>
 
@@ -24,17 +24,17 @@ Before minting conditional tokens, someone needs to create a _conditional vault_
 
 Once a vault is created, anyone can deposit underlying tokens in exchange for conditional tokens. You receive two types of conditional tokens: ones that are redeemable for underlying tokens if the vault is finalized and ones that are redeemable for underlying tokens if the vault is finalized. For example, if you deposit 10 USDC into a vault, you will receive 10 conditional-on-finalize USDC and 10 conditional-on-revert USDC.
 
-![](http://themetadao.org/img/conditional-token-mint.png)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 At any time, the settlement authority can either _finalize_ or _revert_ a vault.
 
 If a settlement authority finalizes a vault, conditional-on-finalize token holders can redeem their conditional tokens for underlying tokens. Conversely, if a settlement authority reverts a vault, conditional-on-revert token holders can redeem their conditional tokens for underlying tokens. Because the finalization and reverting are mutually exclusive, total vault liabilities will never exceed total assets.
 
-![](http://themetadao.org/img/conditional-vault-finalize.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 For each proposal, the Meta-DAO creates two vaults: one for USDC and one for META. If a proposal passes, it finalizes both vaults. If a proposal fails, it reverts both vaults. So we call the conditional-on-finalize tokens _conditional-on-pass tokens_ and the conditional-on-revert tokens _conditional-on-fail tokens_.
 
-![](http://themetadao.org/img/meta-dao-vaults.png)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 This allows us to achieve the desired reverting of trades. For example, if someone mints conditional-on-pass META and trades it for conditional-on-pass USDC, either the proposal will pass and they can redeem conditional-on-pass USDC for USDC or the proposal will fail and they can redeem their conditional-on-fail META for their original META.
 
@@ -52,7 +52,7 @@ Anyone can interact with autocrat to create a _proposal_, which contains fields 
 
 The requisite conditional vaults and markets are created at the same time.
 
-![](http://themetadao.org/img/autocrat-proposal-create.png)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 After a configurable amount of time (currently 10 days), anyone can trigger proposal finalization. In finalization, autocrat checks if the TWAP of the pass market is higher than the TWAP of the fail market. If it is, it executes the SVM instruction, finalizes the pass market, and reverts the fail market. If it isn’t, it marks the proposal as failed, finalizes the fail market, and reverts the pass market.
 
