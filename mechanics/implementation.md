@@ -14,7 +14,7 @@ The Meta-DAO is composed of [3 open-source programs](https://github.com/metaDAOp
 
 The Meta-DAO is built on top of [OpenBook V2](https://www.openbook-solana.com/)’s central limit order book. _META_ is the native token of the Meta-DAO.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### &#x20;Conditional vault program <a href="#conditional-vault-program" id="conditional-vault-program"></a>
 
