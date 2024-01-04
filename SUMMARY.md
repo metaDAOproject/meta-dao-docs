@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Motivation](motivation.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 
 ## Mechanics
 
