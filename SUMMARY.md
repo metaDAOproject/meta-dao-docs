@@ -10,6 +10,11 @@
 * [Example flows](mechanics/example-flows.md)
 * [Scalability](mechanics/scalability.md)
 
+## Resources
+
+* [Token and Program Addresses](resources/token-and-program-addresses.md)
+* [Frequently Asked Questions](resources/frequently-asked-questions.md)
+
 ## Links
 
 * [App](https://app.themetadao.org/)
@@ -18,7 +23,3 @@
 * [Discord](https://discord.gg/metadao)
 * [GitHub](https://github.com/metaDAOproject)
 * [YouTube](https://www.youtube.com/channel/UCGkKQFp30HPgNkZVE1XYjTg)
-
-## Resources
-
-* [Frequently Asked Questions](resources/frequently-asked-questions.md)
