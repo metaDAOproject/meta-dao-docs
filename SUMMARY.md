@@ -10,3 +10,12 @@
 * [Implementation](mechanics/implementation.md)
 * [Example flows](mechanics/example-flows.md)
 * [Scalability](mechanics/scalability.md)
+
+## Links
+
+* [App](https://app.themetadao.org/)
+* [Twitter](https://twitter.com/MetaDAOProject)
+* [Medium](https://blog.themetadao.org/)
+* [Discord](https://discord.gg/metadao)
+* [GitHub](https://github.com/metaDAOproject)
+* [YouTube](https://www.youtube.com/channel/UCGkKQFp30HPgNkZVE1XYjTg)
