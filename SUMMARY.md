@@ -2,7 +2,6 @@
 
 * [Overview](README.md)
 * [Motivation](motivation.md)
-* [Frequently Asked Questions](frequently-asked-questions.md)
 
 ## Mechanics
 
@@ -19,3 +18,7 @@
 * [Discord](https://discord.gg/metadao)
 * [GitHub](https://github.com/metaDAOproject)
 * [YouTube](https://www.youtube.com/channel/UCGkKQFp30HPgNkZVE1XYjTg)
+
+## Resources
+
+* [Frequently Asked Questions](resources/frequently-asked-questions.md)
