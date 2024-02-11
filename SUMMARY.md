@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Introduction](README.md)
 * [Motivation](motivation.md)
 
 ## Mechanics
