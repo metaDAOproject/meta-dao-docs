@@ -23,3 +23,7 @@
 * [Discord](https://discord.gg/metadao)
 * [GitHub](https://github.com/metaDAOproject)
 * [YouTube](https://www.youtube.com/channel/UCGkKQFp30HPgNkZVE1XYjTg)
+
+***
+
+* [Tokenomics](tokenomics.md)

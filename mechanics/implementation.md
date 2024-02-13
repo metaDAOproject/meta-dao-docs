@@ -22,7 +22,7 @@ As described in [futarchy](https://metadaoproject.github.io/docs/mechanics/futar
 
 Before minting conditional tokens, someone needs to create a _conditional vault_. Conditional vaults are each tied to a specific _underlying token_ and _settlement authority_. In our case, the underlying token would be either META or USDC, and the settlement authority would always be the Meta-DAO.
 
-Once a vault is created, anyone can deposit underlying tokens in exchange for conditional tokens. You receive two types of conditional tokens: ones that are redeemable for underlying tokens if the vault is finalized and ones that are redeemable for underlying tokens if the vault is finalized. For example, if you deposit 10 USDC into a vault, you will receive 10 conditional-on-finalize USDC and 10 conditional-on-revert USDC.
+Once a vault is created, anyone can deposit underlying tokens in exchange for conditional tokens. You receive two types of conditional tokens: ones that are redeemable for underlying tokens if the vault is finalized and ones that are redeemable for underlying tokens if the vault is reverted. For example, if you deposit 10 USDC into a vault, you will receive 10 conditional-on-finalize USDC and 10 conditional-on-revert USDC.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
