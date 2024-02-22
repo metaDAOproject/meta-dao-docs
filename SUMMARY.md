@@ -14,6 +14,7 @@
 
 * [Token and Program Addresses](resources/token-and-program-addresses.md)
 * [Frequently Asked Questions](resources/frequently-asked-questions.md)
+* [Tokenomics](resources/tokenomics.md)
 
 ## Links
 
@@ -23,7 +24,4 @@
 * [Discord](https://discord.gg/metadao)
 * [GitHub](https://github.com/metaDAOproject)
 * [YouTube](https://www.youtube.com/channel/UCGkKQFp30HPgNkZVE1XYjTg)
-
-***
-
-* [Tokenomics](tokenomics.md)
+* [Dune](https://dune.com/metadaohogs/themetadao)
