@@ -1,10 +1,10 @@
 ---
-cover: .gitbook/assets/boatinocean (1).png
-coverY: 15.444767441860465
+cover: .gitbook/assets/livelycity.png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
