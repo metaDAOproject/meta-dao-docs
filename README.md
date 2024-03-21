@@ -1,9 +1,9 @@
----
-description: An organization governed by markets, not politics
----
-
 # Introduction
 
-MetaDAO is a new kind of organization. It uses [futarchy](https://en.wikipedia.org/wiki/Futarchy), a system where markets make decisions. As such, it sidesteps existing challenges with governance such as [voter apathy](https://www.polyas.com/election-glossary/voter-apathy) and [political capture](https://en.wikipedia.org/wiki/Rent-seeking).
+MetaDAO is the world's first market-governed organization.
+
+Most of today's organizations are captured by politics. They make decisions based on what's good for those in power, not what's good for the organization as a whole.
+
+MetaDAO gets around these issues by using futarchy, a system where markets make decisions.
 
 {% embed url="https://youtu.be/AbhzbPy-nJc?feature=shared" %}
