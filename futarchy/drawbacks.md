@@ -1,6 +1,10 @@
-# Drawbacks
+# ‼️ Drawbacks
 
-One of the largest drawbacks of markets is [Keynesian beauty contests](https://en.wikipedia.org/wiki/Keynesian\_beauty\_contest). In other words, sometimes investors buy what they think others will buy, not what they think the fundamentals support. This is especially evident in crypto markets where many tokens are [reflexively priced](https://www.epsilonmgmt.com/blog/reflexivity/), and have no fundamentals.
+### Keynesian Beauty Contests
+
+Sometimes, investors buy what they think others will buy, not what they think the fundamentals support. This is especially evident in crypto markets.
+
+
 
 However, there are two counter-points to consider.
 
