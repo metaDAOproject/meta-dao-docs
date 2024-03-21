@@ -1,4 +1,4 @@
-# Benefits
+# ✅ Benefits
 
 Compared to the other ways of making decisions, futarchy has a number of benefits.
 

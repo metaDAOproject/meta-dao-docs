@@ -4,9 +4,9 @@
 
 ## 📈 Futarchy
 
-* [Overview](futarchy/overview.md)
-* [Benefits](futarchy/benefits.md)
-* [Drawbacks](futarchy/drawbacks.md)
+* [📊 Overview](futarchy/overview.md)
+* [✅ Benefits](futarchy/benefits.md)
+* [‼️ Drawbacks](futarchy/drawbacks.md)
 * [Implementation](futarchy/implementation.md)
 * [Example flows](futarchy/example-flows.md)
 * [Scalability](futarchy/scalability.md)
