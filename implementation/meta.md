@@ -1,6 +1,8 @@
-# Tokenomics
+# META
 
-The Meta-DAO was launched with an airdrop of 10,000 META to 60 people. So far, an additional 4,530 META have been issued, corresponding to:
+META is the native token of MetaDAO.
+
+MetaDAO was launched with an airdrop of 10,000 META to 60 people. So far, an additional 4,530 META have been issued, corresponding to:
 
 * 3,100 META sold for $24.2 per META for a total of $75,000 to the treasury
 * 1,000 META allocated to a [Meteora liquidity pool](https://app.meteora.ag/pools/6t2CdBC26q9tj6jBwPzzFZogtjX8mtmVHUmAFmjAhMSn) along with 35,000 USDC

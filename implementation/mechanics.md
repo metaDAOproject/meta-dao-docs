@@ -1,24 +1,24 @@
 ---
-description: How the Meta-DAO implements futarchy
+description: How MetaDAO implements futarchy
 ---
 
-# Implementation
+# Mechanics
 
 ### Overview <a href="#overview" id="overview"></a>
 
-The Meta-DAO is composed of [3 open-source programs](https://github.com/metaDAOproject/meta-dao) on the Solana blockchain:
+MetaDAO is composed of 3 programs deployed on the Solana blockchain:
 
 * a _conditional vault_ program,
 * a _time-weighted average price (TWAP)_ program,
 * and _autocrat_, the program that orchestrates futarchy. All programs are open-source and verifiable.
 
-The Meta-DAO is built on top of [OpenBook V2](https://www.openbook-solana.com/)’s central limit order book. _META_ is the native token of the Meta-DAO.
+The TWAP program is built on top of [OpenBook V2](https://www.openbook-solana.com/)’s central limit order book.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### &#x20;Conditional vault program <a href="#conditional-vault-program" id="conditional-vault-program"></a>
 
-As described in [futarchy](https://metadaoproject.github.io/docs/mechanics/futarchy.html), futarchy requires the ability to ‘revert’ trades in a market so that everyone gets back their original tokens. Unfortunately, blockchains don’t allow you to revert transactions after they’ve been finalized, so we need a mechanism to _simulate_ reverting transactions. That mechanism is conditional tokens.
+As described previously, futarchy requires the ability to ‘revert’ trades in a market so that everyone gets back their original tokens. Unfortunately, blockchains don’t allow you to revert transactions after they’ve been finalized, so we need a mechanism to _simulate_ reverting transactions. That mechanism is conditional tokens.
 
 Before minting conditional tokens, someone needs to create a _conditional vault_. Conditional vaults are each tied to a specific _underlying token_ and _settlement authority_. In our case, the underlying token would be either META or USDC, and the settlement authority would always be the Meta-DAO.
 

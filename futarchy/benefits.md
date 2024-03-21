@@ -1,4 +1,4 @@
-# ✅ Benefits
+# Benefits
 
 Compared to the other ways of making decisions, futarchy has a number of benefits.
 
@@ -23,9 +23,9 @@ This is in contrast to voting, where votes and politicians alike can usually be 
 
 Markets give more power over time to those who are better predictors. This is because high returns both directly increase a trader’s capital and improve their ability to raise capital from investors.
 
-### Markets beat individual experts
+### The evidence supports markets
 
-Empirically, markets are better aggregators of information than individual experts:
+Markets aren't perfectly efficient. But according to most empirical evidence, markets are better aggregators of information than individual experts:
 
 * Prediction markets [outperform](https://repository.arizona.edu/bitstream/handle/10150/666656/azu\_etd\_hr\_2021\_0133\_sip1\_m.pdf?sequence=1) [professional pollsters](https://www.jstor.org/stable/40467652) in predicting elections.
 * Commodities futures markets [outperform government forecasts](https://www.jstor.org/stable/40467652) in predicting weather.

@@ -1,8 +1,8 @@
 ---
-description: Some example flows that demonstrate how the Meta-DAO will work in practice
+description: Some example flows that demonstrate how MetaDAO works in practice
 ---
 
-# Example flows
+# Example Flows
 
 ### Example #1 - A bad proposal <a href="#example-1---a-bad-proposal" id="example-1---a-bad-proposal"></a>
 
