@@ -17,10 +17,10 @@ layout:
     visible: true
 ---
 
-# Introduction
+# MetaDAO
 
 MetaDAO is the world's first market-governed organization.
 
 Most of today's organizations are captured by politics. They make decisions based on what's good for those in power, not what's good for the organization as a whole.
 
-MetaDAO gets around these issues by using futarchy, a system where markets make decisions.
+MetaDAO gets around this issue by using futarchy, a system where markets make decisions.

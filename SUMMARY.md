@@ -1,17 +1,23 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Motivation](motivation.md)
+* [MetaDAO](README.md)
 
-## Mechanics
+## 📈 Futarchy
 
-* [Futarchy](mechanics/futarchy.md)
-* [Implementation](mechanics/implementation.md)
-* [Example flows](mechanics/example-flows.md)
-* [Scalability](mechanics/scalability.md)
+* [Overview](futarchy/overview.md)
+* [Benefits](futarchy/benefits.md)
+* [Drawbacks](futarchy/drawbacks.md)
+* [Implementation](futarchy/implementation.md)
+* [Example flows](futarchy/example-flows.md)
+* [Scalability](futarchy/scalability.md)
+
+## ⚙️ Implementation
+
+* [Page 1](implementation/page-1.md)
 
 ## Resources
 
+* [Further Reading on Futarchy](resources/further-reading-on-futarchy.md)
 * [Token and Program Addresses](resources/token-and-program-addresses.md)
 * [Frequently Asked Questions](resources/frequently-asked-questions.md)
 * [Tokenomics](resources/tokenomics.md)
