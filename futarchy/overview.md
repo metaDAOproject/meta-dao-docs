@@ -1,4 +1,4 @@
-# Overview
+# 📊 Overview
 
 > _Since speculative markets excel at a task where democracies struggle, we might try to improve democracy by having it rely more on speculative markets._\
 > Robin Hanson

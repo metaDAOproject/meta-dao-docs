@@ -1,18 +1,19 @@
 # Table of contents
 
-* [MetaDAO](README.md)
+* [Introduction](README.md)
 
 ## 📈 Futarchy
 
-* [Overview](futarchy/overview.md)
-* [Benefits](futarchy/benefits.md)
-* [Drawbacks](futarchy/drawbacks.md)
+* [📊 Overview](futarchy/overview.md)
+* [✅ Benefits](futarchy/benefits.md)
+* [‼️ Pitfalls](futarchy/pitfalls.md)
 
-## ⚙️ Implementation
+## 🕙 MetaDAO
 
-* [Mechanics](implementation/mechanics.md)
-* [Example Flows](implementation/example-flows.md)
-* [META](implementation/meta.md)
+* [🌏 Overview](metadao/overview.md)
+* [⚫ META](metadao/meta.md)
+* [📚 How It Works](metadao/how-it-works.md)
+* [💻 Examples](metadao/examples.md)
 
 ## 🔗 Links
 
