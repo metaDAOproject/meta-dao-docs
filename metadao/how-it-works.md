@@ -6,6 +6,8 @@ description: How MetaDAO implements futarchy
 
 ### Overview <a href="#overview" id="overview"></a>
 
+{% embed url="https://youtu.be/AbhzbPy-nJc?si=dKhB6O--glK69to8" %}
+
 MetaDAO is composed of 3 programs deployed on the Solana blockchain:
 
 * a _conditional vault_ program,
