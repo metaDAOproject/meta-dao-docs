@@ -1,8 +1,7 @@
 ---
 description: The world's first market-governed organization
 cover: .gitbook/assets/citadel.png
-coverY: 0
-layout: landing
+coverY: 91.42465753424658
 ---
 
 # 🔴 MetaDAO
