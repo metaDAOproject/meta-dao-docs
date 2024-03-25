@@ -1,7 +1,7 @@
 ---
 description: The world's first market-governed organization
 cover: .gitbook/assets/citadel.png
-coverY: 74
+coverY: 518.0813953488372
 layout:
   cover:
     visible: true
