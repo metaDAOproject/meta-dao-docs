@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [🔴 MetaDAO](README.md)
 
 ## 📈 Futarchy
 

@@ -1,6 +1,7 @@
 ---
-cover: .gitbook/assets/livelycity.png
-coverY: 0
+description: The world's first market-governed organization
+cover: .gitbook/assets/citadel.png
+coverY: 46
 layout:
   cover:
     visible: true
@@ -17,10 +18,8 @@ layout:
     visible: true
 ---
 
-# MetaDAO
+# 🔴 MetaDAO
 
-MetaDAO is the world's first market-governed organization.
+Today's organizations are captured by politics. They act according to what's good for those in power, not according to what's good for the organization.
 
-Most of today's organizations are captured by politics. They make decisions based on what's good for those in power, not what's good for the organization as a whole.
-
-MetaDAO solves this by using futarchy, a system where markets make decisions.
+MetaDAO escapes this issue by using futarchy, a system where markets make decisions.
