@@ -1,5 +1,7 @@
 # 📊 Overview
 
+{% embed url="https://youtu.be/PRog7R37MA0?si=y69R2JRbLqm5uyFH" %}
+
 > _Since speculative markets excel at a task where democracies struggle, we might try to improve democracy by having it rely more on speculative markets._\
 > Robin Hanson
 
@@ -13,8 +15,7 @@ We can demonstrate with an example: a company deciding whether to fire the CEO. 
 2. Allow investors to trade in these markets for some time period, such as 10 days.
 3. After the time period has elapsed, look at prices of the company’s stock in both markets. If 'retain CEO' stock is more valuable, retain the CEO and revert all trades in the ‘fire CEO’ market. If ‘fire CEO’ stock is more valuable, fire the CEO and revert all trades in the ‘retain CEO market.’
 
-In essence, you allow the market to speculate on what the value of the company _would be_ if the company fired the CEO, and then fire the CEO if the company would be more valuable.
+In essence, the market speculates on what the value of the company _would be_ if the company fired the CEO, and then the company fires the CEO if the market speculates that it would make the company more valuable. 
 
-The company can use the same process for any decision. It can have the market speculate on how an action would affect the value of the company and take the action if it would make the company more valuable.
+Given a reference asset, such as a stock or governance token, we can use the same process for any decision. First we have the market speculate on how valuable the asset would be conditional on a few potential actions, and then we select the action with the highest associated value.
 
-{% embed url="https://youtu.be/PRog7R37MA0?si=y69R2JRbLqm5uyFH" %}
