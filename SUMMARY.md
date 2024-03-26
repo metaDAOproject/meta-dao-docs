@@ -1,19 +1,19 @@
 # Table of contents
 
-* [🔴 MetaDAO](README.md)
+* [MetaDAO](README.md)
 
-## 📈 Futarchy
+## Futarchy
 
-* [📊 Overview](futarchy/overview.md)
-* [✅ Benefits](futarchy/benefits.md)
-* [‼️ Pitfalls](futarchy/pitfalls.md)
+* [Overview](futarchy/overview.md)
+* [Benefits](futarchy/benefits.md)
+* [Pitfalls](futarchy/pitfalls.md)
 
-## 🕙 MetaDAO
+## MetaDAO
 
-* [🌏 Overview](metadao/overview.md)
-* [⚫ META](metadao/meta.md)
-* [📚 How It Works](metadao/how-it-works.md)
-* [💻 Examples](metadao/examples.md)
+* [Overview](metadao/overview.md)
+* [META](metadao/meta.md)
+* [How It Works](metadao/how-it-works.md)
+* [Examples](metadao/examples.md)
 
 ## 🔗 Links
 
