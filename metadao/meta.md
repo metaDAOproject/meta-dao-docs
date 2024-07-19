@@ -1,6 +1,6 @@
-# ⚫ META
+# META
 
-All futarchies need a reference asset whose value they try to maximize, so MetaDAO has META.
+All futarchies need a reference asset, so MetaDAO has META.
 
 To bootstrap the governance process, 10,000 META was airdropped to \~60 wallets. The remaining supply was held by the DAO's treasury.
 
